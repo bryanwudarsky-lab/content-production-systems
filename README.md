@@ -9,7 +9,7 @@ that revise strategy on measurements instead of mood. I design, build, and test 
 myself. Language models assist with research, drafting, and checking, run through Claude Code;
 direction and sign-off stay with me.
 
-Portfolio: (link added at launch) | [linkedin.com/in/bryanwudarsky](https://www.linkedin.com/in/bryanwudarsky)
+Portfolio: [bryanwudarsky-lab.github.io](https://bryanwudarsky-lab.github.io) | [linkedin.com/in/bryanwudarsky](https://www.linkedin.com/in/bryanwudarsky)
 
 This page documents the process and leaves the writing itself out of scope. The process is the
 part that transfers.
